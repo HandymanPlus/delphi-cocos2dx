@@ -1,4 +1,4 @@
-# delphi-cocos2dx
+# Cocos2dx for Delphi
 Original repository: code.google.com/p/delphi-cocos2dx
 
 This is a port of Cocos2dx 2.2 to Delphi for Win32
